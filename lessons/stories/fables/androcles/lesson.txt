@@ -215,7 +215,7 @@ Androcles
 'to': TO
 'Androcles': KPA/ARPBD/SKWRO/KR*/*L/-S
 'he': HE
-'recognised': REFD/A*U
+'recognized': REFD/A*U
 'his': HEUS
 'friend,': TPREPBD/KW-BG
 'and': SKP
