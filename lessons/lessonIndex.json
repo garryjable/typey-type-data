@@ -34,10 +34,10 @@
     "subtitle": "",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 1",
-    "path": "/44/chapter01/lesson.txt",
+    "path": "/44/chapter01/review/lesson.txt",
     "wordCount": 35,
     "overview": "/fundamentals/introduction/lesson-overview.html",
-    "suggestedNext": "/44/chapter02/lesson.txt"
+    "suggestedNext": "/44/chapter02/review/lesson.txt"
   },
   {
     "title": "Lesson 2.1",
@@ -56,7 +56,7 @@
     "subcategory": "Chapter 2",
     "path": "/44/chapter02/section02/lesson.txt",
     "wordCount": 12,
-    "overview": "/fundamentals/introduction/lesson-overview.html",
+	"overview": "/fundamentals/introduction/lesson-overview.html",
     "suggestedNext": "/44/chapter02/section03/lesson.txt"
   },
   {
@@ -74,7 +74,7 @@
     "subtitle": "",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 2",
-    "path": "/44/chapter02/lesson.txt",
+    "path": "/44/chapter02/review/lesson.txt",
     "wordCount": 67,
     "overview": "/fundamentals/introduction/lesson-overview.html",
     "suggestedNext": "/44/chapter03/lesson.txt"
@@ -124,10 +124,10 @@
     "subtitle": "",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 3",
-    "path": "/44/chapter03/lesson.txt",
+    "path": "/44/chapter03/review/lesson.txt",
     "wordCount": 122,
     "overview": "/fundamentals/introduction/lesson-overview.html",
-    "suggestedNext": "/44/chapter04/lesson.txt"
+    "suggestedNext": "/44/chapter04/review/lesson.txt"
   },
   {
     "title": "Lesson 4.1",
@@ -174,10 +174,10 @@
     "subtitle": "",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 4",
-    "path": "/44/chapter04/lesson.txt",
+    "path": "/44/chapter04/review/lesson.txt",
     "wordCount": 133,
     "overview": "/fundamentals/introduction/lesson-overview.html",
-    "suggestedNext": "/44/chapter05/lesson.txt"
+    "suggestedNext": "/44/chapter05/review/lesson.txt"
   },
   {
     "title": "Lesson 5.1",
@@ -191,7 +191,7 @@
   },
   {
     "title": "Lesson 5.2",
-    "subtitle": "Briefs",
+    "subtitle": "Words",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 5",
     "path": "/44/chapter05/section02/lesson.txt",
@@ -244,10 +244,10 @@
     "subtitle": "",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 5",
-    "path": "/44/chapter05/lesson.txt",
+    "path": "/44/chapter05/review/lesson.txt",
     "wordCount": 282,
     "overview": "/fundamentals/introduction/lesson-overview.html",
-    "suggestedNext": "/44/chapter06/lesson.txt"
+    "suggestedNext": "/44/chapter06/review/lesson.txt"
   },
   {
     "title": "Lesson 6.1",
@@ -324,10 +324,10 @@
     "subtitle": "",
     "category": "Magnum Beginning Theory",
     "subcategory": "Chapter 6",
-    "path": "/44/chapter06/lesson.txt",
+    "path": "/44/chapter06/review/lesson.txt",
     "wordCount": 308,
     "overview": "/fundamentals/introduction/lesson-overview.html",
-    "suggestedNext": "/44/chapter07/lesson.txt"
+    "suggestedNext": "/44/chapter07/review/lesson.txt"
   },
   {
     "title": "Lesson 7.1",
