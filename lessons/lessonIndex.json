@@ -358,8 +358,1045 @@
     "wordCount": 36,
     "overview": "/fundamentals/introduction/lesson-overview.html",
     "suggestedNext": "/44/chapter07/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.4",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section04/lesson.txt",
+    "wordCount": 26,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter07/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.5",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section05/lesson.txt",
+    "wordCount": 56,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter07/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.6",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section06/lesson.txt",
+    "wordCount": 55,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter07/section07/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.7",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section07/lesson.txt",
+    "wordCount": 62,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter07/section08/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.8",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section08/lesson.txt",
+    "wordCount": 52,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter07/section09/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.9",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section09/lesson.txt",
+    "wordCount": 64,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter07/section10/lesson.txt"
+  },
+  {
+    "title": "Lesson 7.10",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/section10/lesson.txt",
+    "wordCount": 68,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 7",
+    "path": "/44/chapter07/review/lesson.txt",
+    "wordCount": 483,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section01/lesson.txt",
+    "wordCount": 25,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section02/lesson.txt",
+    "wordCount": 13,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.3",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section03/lesson.txt",
+    "wordCount": 57,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.4",
+    "subtitle": "Briefs and Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section04/lesson.txt",
+    "wordCount": 24,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.5",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section05/lesson.txt",
+    "wordCount": 52,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.6",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section06/lesson.txt",
+    "wordCount": 19,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section07/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.7",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section07/lesson.txt",
+    "wordCount": 50,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section08/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.8",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section08/lesson.txt",
+    "wordCount": 28,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter08/section09/lesson.txt"
+  },
+  {
+    "title": "Lesson 8.9",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/section09/lesson.txt",
+    "wordCount": 46,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter09/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 8",
+    "path": "/44/chapter08/review/lesson.txt",
+    "wordCount": 312,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter09/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 9.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 9",
+    "path": "/44/chapter09/section01/lesson.txt",
+    "wordCount": 36,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter09/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 9.2",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 9",
+    "path": "/44/chapter09/section02/lesson.txt",
+    "wordCount": 66,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter09/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 9.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 9",
+    "path": "/44/chapter09/section03/lesson.txt",
+    "wordCount": 37,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter09/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 9.4",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 9",
+    "path": "/44/chapter09/section04/lesson.txt",
+    "wordCount": 41,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter09/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 9.5",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 9",
+    "path": "/44/chapter09/section05/lesson.txt",
+    "wordCount": 26,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter10/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 9",
+    "path": "/44/chapter09/review/lesson.txt",
+    "wordCount": 207,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter10/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 10.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 10",
+    "path": "/44/chapter10/section01/lesson.txt",
+    "wordCount": 43,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter10/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 10.2",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 10",
+    "path": "/44/chapter10/section02/lesson.txt",
+    "wordCount": 50,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter10/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 10.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 10",
+    "path": "/44/chapter10/section03/lesson.txt",
+    "wordCount": 41,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter10/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 10.4",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 10",
+    "path": "/44/chapter10/section04/lesson.txt",
+    "wordCount": 20,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter10/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 10.5",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 10",
+    "path": "/44/chapter10/section05/lesson.txt",
+    "wordCount": 28,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter11/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 10",
+    "path": "/44/chapter10/review/lesson.txt",
+    "wordCount": 182,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter11/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 11.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 11",
+    "path": "/44/chapter11/section01/lesson.txt",
+    "wordCount": 60,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter11/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 11.2",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 11",
+    "path": "/44/chapter11/section02/lesson.txt",
+    "wordCount": 37,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter11/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 11.3",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 11",
+    "path": "/44/chapter11/section03/lesson.txt",
+    "wordCount": 10,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter12/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter11/review/lesson.txt",
+    "wordCount": 107,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter12/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 12.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter12/section01/lesson.txt",
+    "wordCount": 69,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter12/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 12.2",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter12/section02/lesson.txt",
+    "wordCount": 72,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter12/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 12.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter12/section03/lesson.txt",
+    "wordCount": 79,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter12/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 12.4",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter12/section04/lesson.txt",
+    "wordCount": 12,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter12/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 12.5",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter12/section05/lesson.txt",
+    "wordCount": 26,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter13/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 12",
+    "path": "/44/chapter12/review/lesson.txt",
+    "wordCount": 258,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter13/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 13.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 13",
+    "path": "/44/chapter13/section01/lesson.txt",
+    "wordCount": 65,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter13/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 13.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 13",
+    "path": "/44/chapter13/section02/lesson.txt",
+    "wordCount": 36,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter13/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 13.3",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 13",
+    "path": "/44/chapter13/section03/lesson.txt",
+    "wordCount": 60,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter13/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 13.4",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 13",
+    "path": "/44/chapter13/section04/lesson.txt",
+    "wordCount": 19,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter14/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 13",
+    "path": "/44/chapter13/review/lesson.txt",
+    "wordCount": 181,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter14/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 14.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 14",
+    "path": "/44/chapter14/section01/lesson.txt",
+    "wordCount": 48,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter14/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 14.2",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 14",
+    "path": "/44/chapter14/section02/lesson.txt",
+    "wordCount": 47,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter14/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 14.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 14",
+    "path": "/44/chapter14/section03/lesson.txt",
+    "wordCount": 23,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter14/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 14.4",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 14",
+    "path": "/44/chapter14/section04/lesson.txt",
+    "wordCount": 61,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter14/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 14.5",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 14",
+    "path": "/44/chapter14/section05/lesson.txt",
+    "wordCount": 19,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 14",
+    "path": "/44/chapter14/review/lesson.txt",
+    "wordCount": 198,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 15.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/section01/lesson.txt",
+    "wordCount": 69,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 15.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/section02/lesson.txt",
+    "wordCount": 31,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 15.3",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/section03/lesson.txt",
+    "wordCount": 49,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 15.4",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/section04/lesson.txt",
+    "wordCount": 15,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 15.5",
+    "subtitle": "Drill",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/section05/lesson.txt",
+    "wordCount": 23,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter15/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 15.6",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/section06/lesson.txt",
+    "wordCount": 27,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter16/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 15",
+    "path": "/44/chapter15/review/lesson.txt",
+    "wordCount": 224,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter16/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 16.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 16",
+    "path": "/44/chapter16/section01/lesson.txt",
+    "wordCount": 49,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter16/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 16.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 16",
+    "path": "/44/chapter16/section02/lesson.txt",
+    "wordCount": 53,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter16/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 16.3",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 16",
+    "path": "/44/chapter16/section03/lesson.txt",
+    "wordCount": 29,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter16/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 16.4",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 16",
+    "path": "/44/chapter16/section04/lesson.txt",
+    "wordCount": 31,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 16",
+    "path": "/44/chapter16/review/lesson.txt",
+    "wordCount": 162,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 17.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/section01/lesson.txt",
+    "wordCount": 56,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 17.2",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/section02/lesson.txt",
+    "wordCount": 56,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 17.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/section03/lesson.txt",
+    "wordCount": 43,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 17.4",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/section04/lesson.txt",
+    "wordCount": 46,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 17.5",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/section05/lesson.txt",
+    "wordCount": 27,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter17/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 17.6",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/section06/lesson.txt",
+    "wordCount": 41,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 17",
+    "path": "/44/chapter17/review/lesson.txt",
+    "wordCount": 269,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 18.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/section01/lesson.txt",
+    "wordCount": 40,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 18.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/section02/lesson.txt",
+    "wordCount": 19,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 18.3",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/section03/lesson.txt",
+    "wordCount": 27,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 18.4",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/section04/lesson.txt",
+    "wordCount": 21,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 18.5",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/section05/lesson.txt",
+    "wordCount": 66,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter18/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 18.6",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/section06/lesson.txt",
+    "wordCount": 8,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter19/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 18",
+    "path": "/44/chapter18/review/lesson.txt",
+    "wordCount": 182,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter19/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 19.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 19",
+    "path": "/44/chapter19/section01/lesson.txt",
+    "wordCount": 71,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter19/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 19.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 19",
+    "path": "/44/chapter19/section02/lesson.txt",
+    "wordCount": 71,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter19/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 19.3",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 19",
+    "path": "/44/chapter19/section03/lesson.txt",
+    "wordCount": 35,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter19/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 19.4",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 19",
+    "path": "/44/chapter19/section04/lesson.txt",
+    "wordCount": 24,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 19",
+    "path": "/44/chapter19/review/lesson.txt",
+    "wordCount": 201,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section01/lesson.txt",
+    "wordCount": 52,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section02/lesson.txt",
+    "wordCount": 91,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.3",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section03/lesson.txt",
+    "wordCount": 66,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.4",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section04/lesson.txt",
+    "wordCount": 69,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.5",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section05/lesson.txt",
+    "wordCount": 14,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.6",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section06/lesson.txt",
+    "wordCount": 44,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section07/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.7",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section07/lesson.txt",
+    "wordCount": 81,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section08/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.8",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section08/lesson.txt",
+    "wordCount": 52,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section09/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.9",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section09/lesson.txt",
+    "wordCount": 18,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter20/section10/lesson.txt"
+  },
+  {
+    "title": "Lesson 20.10",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/section10/lesson.txt",
+    "wordCount": 21,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 20",
+    "path": "/44/chapter20/review/lesson.txt",
+    "wordCount": 508,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section01/lesson.txt",
+    "wordCount": 76,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.2",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section02/lesson.txt",
+    "wordCount": 74,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section03/lesson.txt",
+    "wordCount": 88,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.4",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section04/lesson.txt",
+    "wordCount": 87,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.5",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section05/lesson.txt",
+    "wordCount": 91,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.6",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section06/lesson.txt",
+    "wordCount": 70,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section07/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.7",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section07/lesson.txt",
+    "wordCount": 60,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section08/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.8",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section08/lesson.txt",
+    "wordCount": 59,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section09/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.9",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section09/lesson.txt",
+    "wordCount": 83,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter21/section10/lesson.txt"
+  },
+  {
+    "title": "Lesson 21.10",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/section10/lesson.txt",
+    "wordCount": 32,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 21",
+    "path": "/44/chapter21/review/lesson.txt",
+    "wordCount": 719,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/review/lesson.txt"
   }
-
-
-
 ]
