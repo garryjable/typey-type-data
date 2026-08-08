@@ -1398,5 +1398,132 @@
     "wordCount": 719,
     "overview": "/fundamentals/introduction/lesson-overview.html",
     "suggestedNext": "/44/chapter22/review/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.1",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section01/lesson.txt",
+    "wordCount": 40,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section02/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.2",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section02/lesson.txt",
+    "wordCount": 54,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section03/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.3",
+    "subtitle": "Briefs",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section03/lesson.txt",
+    "wordCount": 57,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section04/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.4",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section04/lesson.txt",
+    "wordCount": 35,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section05/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.5",
+    "subtitle": "Conflicts",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section05/lesson.txt",
+    "wordCount": 26,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section06/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.6",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section06/lesson.txt",
+    "wordCount": 29,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section07/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.7",
+    "subtitle": "Phrases",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section07/lesson.txt",
+    "wordCount": 44,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter22/section08/lesson.txt"
+  },
+  {
+    "title": "Lesson 22.8",
+    "subtitle": "Words",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/section08/lesson.txt",
+    "wordCount": 44,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter23/section01/lesson.txt"
+  },
+  {
+    "title": "Review",
+    "subtitle": "",
+    "category": "Magnum Beginning Theory",
+    "subcategory": "Chapter 22",
+    "path": "/44/chapter22/review/lesson.txt",
+    "wordCount": 329,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/chapter23/review/lesson.txt"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Androcles",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop",
+    "path": "/44/fables/androcles/lesson.txt",
+    "wordCount": 203,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/fables/avaricious-and-envious/lesson.txt"
+  },
+  {
+    "title": "Avaricious and Envious",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop",
+    "path": "/44/fables/avaricious-and-envious/lesson.txt",
+    "wordCount": 113,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/44/fables/belling-the-cat/lesson.txt"
   }
+
+
+
 ]
